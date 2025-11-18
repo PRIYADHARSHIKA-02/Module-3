@@ -4,7 +4,7 @@
 ---
 
 ### AIM  
-To write a Python function to accept a string, identify a word to be replaced, and replace it with a new word provided by the user.
+Write a Python function to accept a string, identify a word to be replaced, and replace it with a new word provided by the user.
 
 ---
 
@@ -23,8 +23,19 @@ To write a Python function to accept a string, identify a word to be replaced, a
 ### PROGRAM
 
 ```
+#Reg No-212223060212
+#Name - Priyadharshika L
+
+def string_length(s):
+    print(f"The length of the string '{s}' is {len(s)}")
+
+# Example usage
+string = input()
+string_length(string)
 ```
 
 ### OUTPUT
+<img width="1068" height="230" alt="image" src="https://github.com/user-attachments/assets/a01376d1-e622-4544-beed-bdc43bdf8643" />
 
 ### RESULT
+Thus, a Python program to find the length of the given string has been successfully implemented.
